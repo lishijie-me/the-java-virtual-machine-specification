@@ -8,4 +8,4 @@
 ## Contact 联系译者
 - Gmail：[lishijie.me@gmail.com](mailto:lishijie.me@gmail.com)
 ## Support Me 给成行加油打气
-[开源捐赠Donate](alipayRedPacketCode.jpg)
+![开源捐赠Donate](alipayRedPacketCode.jpg)
